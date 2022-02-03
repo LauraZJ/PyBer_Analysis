@@ -34,11 +34,11 @@ Suburban communities have a good population, but many people likley have their o
 
 Rural communities are the smallest of the three in population and has less need for drivers and rides.  However, the distance of the trips are likely longer because of geographic logistics alone.  
 
-##### pie charts:
+##### Pie Charts:
 When examining the pie charts, we see: 
 1. Urban cities have a higher percentage of the total fares, total rides, and total drivers.  What I found interesting is that urban cities are within a few percentage points in both total rides and total fares, yet they have a larger percentage of total drivers.  Higher population = the availability of more drivers, as there may be people who work part time to pick up a little extra money. However, more rides doesn't equal higher fares. 
 
-As we look at the % drivers in suburban and rural areas, we see that the percentage of drivers is aabout half the percentage when compared to the percent of total fares and total rides.  The overall need for rides is reduced so the number of drivers needed is lower.
+2. As we look at the % drivers in suburban and rural areas, we see that the percentage of drivers is aabout half the percentage when compared to the percent of total fares and total rides.  The overall need for rides is reduced so the number of drivers needed is lower.
 !["% Total Fares by City Type"](https://github.com/LauraZJ/PyBer_Analysis/blob/main/Analysis/Fig5.png)
 !["% Total Rides by City Type"](https://github.com/LauraZJ/PyBer_Analysis/blob/main/Analysis/Fig6.png)
 !["% Total Drivers by City Type"](https://github.com/LauraZJ/PyBer_Analysis/blob/main/Analysis/Fig7.png)
