@@ -2,8 +2,7 @@
 ## Purpose
 The purpose of this analysis is to evaluate the ride-share service variations including drivers, fares, and cities (by city type).
 
-## Results - description of the differences in ride-sharing data among the different city types.  Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
-
+## Results 
 ### Scatter Plot
 The PyBer Ride-Sharing Data scatter plot shows distinct differences between the city types in terms of number of drivers, number of rides and average fares.  
 
@@ -34,7 +33,7 @@ Suburban communities have a good population, but many people likley have their o
 
 Rural communities are the smallest of the three in population and has less need for drivers and rides.  However, the distance of the trips are likely longer because of geographic logistics alone.  
 
-##### Pie Charts:
+### Pie Charts:
 When examining the pie charts, we see: 
 1. Urban cities have a higher percentage of the total fares, total rides, and total drivers.  What I found interesting is that urban cities are within a few percentage points in both total rides and total fares, yet they have a larger percentage of total drivers.  Higher population = the availability of more drivers, as there may be people who work part time to pick up a little extra money. However, more rides doesn't equal higher fares. 
 
@@ -43,7 +42,7 @@ When examining the pie charts, we see:
 !["% Total Rides by City Type"](https://github.com/LauraZJ/PyBer_Analysis/blob/main/Analysis/Fig6.png)
 !["% Total Drivers by City Type"](https://github.com/LauraZJ/PyBer_Analysis/blob/main/Analysis/Fig7.png)
 
-##### Line Graph
+### Line Graph
 Another way to view the difference in the fares by city type is to look at the data in a line graph.    This graph represents the actual dollars spent on ride-share fares by city type.  This doesn't show the detail of the number of rides or drivers, so we can't see that the rural fares are higher, it shows merely the sum of the fares earned in each city type, which as expected, shows that more fares are arned in Urban areas, with suburban next and rural earnings being the lowest when viewing the overall total fares.
 !["PyBer Fare Summary"](https://github.com/LauraZJ/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
